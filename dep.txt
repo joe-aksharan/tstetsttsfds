@@ -1,0 +1,40 @@
+# requirements.txt
+
+# Main project dependencies
+pandas==1.3.3
+numpy==1.21.2
+matplotlib==3.4.3
+scipy==1.7.1
+scikit-learn==0.24.2
+seaborn==0.11.2
+jupyterlab==3.1.0
+
+# Database connectivity
+sqlalchemy==1.4.30
+
+# Data visualization
+plotly==5.3.1
+bokeh==2.4.1
+
+# Data manipulation and analysis
+statsmodels==0.13.0
+xgboost==1.5.0
+
+# Natural Language Processing (NLP)
+nltk==3.6.3
+spacy==3.1.4
+
+# Web scraping and requests
+beautifulsoup4==4.10.0
+requests==2.26.0
+scrapy==2.5.1
+
+# Machine learning frameworks
+tensorflow==2.6.0
+pytorch==1.9.1
+
+# Automated testing
+pytest==7.0.1
+
+# Database support
+psycopg2-binary==2.9.1
